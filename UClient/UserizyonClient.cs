@@ -11,7 +11,7 @@ namespace UClient
     /// <summary>
     /// TDLib client for using with generated APIs
     /// </summary>
-    public class UClient : UApi.Client, IDisposable
+    public class UserizyonClient : UApi.Client, IDisposable
     {
         private UJsonClient _tdJsonClient;
         
@@ -21,9 +21,9 @@ namespace UClient
         private Receiver _receiver;
         private UApi.AuthorizationState _authorizationState;
 
-        public UClient() : this(Interop.AutoDetectBindings()) {}
+        public UserizyonClient() : this(Interop.AutoDetectBindings()) {}
 
-        public UClient(IULibBindings bindings)
+        public UserizyonClient(IULibBindings bindings)
         {
             _tdJsonClient = new UJsonClient(bindings);
             

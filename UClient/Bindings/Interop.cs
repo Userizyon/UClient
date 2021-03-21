@@ -23,7 +23,7 @@ namespace UClient.Bindings
                 return LinuxBindings.Instance;
             }
 
-            throw new PlatformNotSupportedException($"Current platform is not supported by ULib. Please pass your own instance of {typeof(IULibBindings).FullName} to a constructor of {typeof(UClient).FullName} or {typeof(UJsonClient).FullName}.");
+            throw new PlatformNotSupportedException($"Current platform is not supported by TDLib. Please pass your own instance of {typeof(IULibBindings).FullName} to a constructor of {typeof(UserizyonClient).FullName} or {typeof(UJsonClient).FullName}.");
         }
 
         internal static string IntPtrToString(IntPtr ptr)
