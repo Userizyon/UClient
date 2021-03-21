@@ -1,0 +1,12 @@
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.csprojAssemblyReference.cache
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.AssemblyInfoInputs.cache
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.AssemblyInfo.cs
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.csproj.CoreCompileInputs.cache
+D:\projeler\Userizyon\UClient\UClient\bin\Release\netstandard2.1\UClient.deps.json
+D:\projeler\Userizyon\UClient\UClient\bin\Release\netstandard2.1\UClient.dll
+D:\projeler\Userizyon\UClient\UClient\bin\Release\netstandard2.1\UClient.pdb
+D:\projeler\Userizyon\UClient\UClient\bin\Release\netstandard2.1\UClient.Api.dll
+D:\projeler\Userizyon\UClient\UClient\bin\Release\netstandard2.1\UClient.Api.pdb
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.csproj.CopyComplete
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.dll
+D:\projeler\Userizyon\UClient\UClient\obj\Release\netstandard2.1\UClient.pdb
